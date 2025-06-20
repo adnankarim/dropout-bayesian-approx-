@@ -1,6 +1,3 @@
-Here's a professional and concise `README.md` you can use for your GitHub repository. It avoids any mention of ChatGPT and assumes that all result figures are saved in the `imgs/` folder.
-
----
 
 # Dropout as a Bayesian Approximation: Reproduction
 
